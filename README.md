@@ -8,7 +8,7 @@
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50"/>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fslack.com%2Fmarketplace%2FA0F7YS2SX-github-enterprise-server&psig=AOvVaw2AhroxwiVmDtzxegaBb3YY&ust=1749440000962000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIDvv4Dy4I0DFQAAAAAdAAAAABAE" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50"/>
